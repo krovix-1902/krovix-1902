@@ -1,117 +1,137 @@
-## Hi there 👋
-
 # Rohan Khatri
 
-**BSc Computer Science for Cybersecurity @ Oxford Brookes University**
-**Aspiring SOC Analyst / Cybersecurity Analyst**
-Defensive Security · Network Security · SIEM Fundamentals · Python Automation · Secure Software Development
+### Cybersecurity Student | Aspiring SOC Analyst | Blue Team Learner
+
+I am a **BSc Computer Science for Cybersecurity student at Oxford Brookes University**, building a practical foundation in defensive security, networking, secure software development, and security operations.
+
+My current focus is to become placement-ready for **SOC Analyst, Cybersecurity Analyst, and Security Operations roles** by combining academic learning with hands-on labs, technical documentation, and small security-focused projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-rkrohan0718-181717?style=flat\&logo=github)](https://github.com/rkrohan0718)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Khatri-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rohan-khatri18)
 [![Email](https://img.shields.io/badge/Email-rkrohan0718%40gmail.com-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:rkrohan0718@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Profile-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](#)
 
 ---
 
-## Security Focus
+## About Me
 
-I am building towards a **SOC Analyst / Cybersecurity Analyst placement**, with a focus on defensive security, alert investigation, network fundamentals, secure systems, and practical security documentation.
+I am currently developing my skills in **blue-team security, network analysis, web application security, Java, Python, and secure system design**.
 
-My current goal is simple: develop enough hands-on evidence to show that I can think like a junior analyst — understand logs, recognise suspicious behaviour, explain risk clearly, and document what I find.
+I use GitHub as a public record of my learning journey: documenting labs, building small projects, practising programming fundamentals, and improving my ability to explain security concepts clearly.
 
-I use this GitHub profile to track my technical progress through cybersecurity labs, Java/Python practice, secure design coursework, and portfolio projects.
+My long-term goal is to work in cybersecurity roles where I can investigate security events, understand attacker behaviour, improve defensive controls, and communicate risks in a clear and useful way.
 
 ---
 
-## Current Technical Direction
+## Current Focus Areas
 
 ```text
-Defensive Security      Alert triage, incident response basics, threat detection logic
-Networking              TCP/IP, subnetting, DNS, HTTP/S, ports, protocols, packet analysis
-Security Assessment     OWASP Top 10, authentication, access control, session risks, reporting
-Programming             Java OOP, Python scripting, automation, problem solving
-Documentation           Clear write-ups, evidence-based findings, risk-focused recommendations
+SOC & Blue Team        Alert triage, incident response basics, log analysis, detection thinking
+Networking            TCP/IP, subnetting, DNS, HTTP/S, ports, protocols, packet analysis
+Web Security          OWASP Top 10, authentication, access control, session security
+Programming           Java OOP, Python scripting, automation, problem solving
+Documentation         Security reports, lab notes, findings, recommendations
+Career Goal           SOC Analyst / Cybersecurity Analyst placement
 ```
 
 ---
 
-## Skills Snapshot
+## Technical Skills
 
-### Cybersecurity & Blue Team
+### Cybersecurity
 
 * SOC Level 1 fundamentals
-* Incident response concepts
-* Alert investigation workflow
-* Vulnerability assessment basics
+* Defensive security concepts
+* Incident response basics
+* Vulnerability assessment fundamentals
 * OWASP Top 10 awareness
 * Authentication and access control risks
 * Secure design principles
-* Security reporting and remediation writing
+* Risk-based security reporting
 
 ### Networking
 
-* TCP/IP model
+* TCP/IP fundamentals
 * Subnetting and IP addressing
 * DNS, HTTP/HTTPS, SSH, FTP
+* Ports and protocols
 * Firewalls and basic network controls
-* Packet capture analysis fundamentals
-* Network security concepts
+* Packet analysis fundamentals
 
-### Programming & Development
+### Programming
 
 * Java
 * Python
 * HTML/CSS
 * Basic JavaScript
 * Object-oriented programming
-* Arrays, ArrayLists, loops, classes, inheritance, encapsulation
+* Arrays and ArrayLists
+* Classes, constructors, inheritance, encapsulation
 * Git and GitHub workflow
 
-### Tools I Am Learning
+### Tools & Platforms
 
 * TryHackMe
 * Wireshark
 * Burp Suite Community Edition
 * Linux command line
 * VS Code
-* Git/GitHub
+* GitHub
 * Python scripting tools
 
 ---
 
-## Featured Work
+## Featured Projects & Work
 
-### 1. CyberPlacement Finder
+### CyberPlacement Finder
 
-A student-focused cybersecurity placement discovery platform concept. The goal is to help UK cybersecurity students find relevant placements, understand employer requirements, and map job descriptions against their current skills.
+A cybersecurity placement discovery platform concept designed to help students find relevant UK cybersecurity placements and internships.
 
-**Focus areas:** job-role analysis, student suitability filtering, evidence-based skill matching, placement preparation.
+The project idea focuses on analysing job descriptions, extracting employer requirements, and helping students understand how their current skills match real placement opportunities.
 
-**Planned stack:** Next.js, TypeScript, Tailwind CSS, Supabase/PostgreSQL, Zod, PDF export.
+**Planned features:**
+
+* Cybersecurity placement aggregation
+* Student-suitability filtering
+* Job description requirement analysis
+* Evidence-based skill matching
+* Exportable proof-of-fit summaries
+
+**Planned stack:**
+
+```text
+Next.js · TypeScript · Tailwind CSS · Supabase/PostgreSQL · Zod · PDF Export
+```
 
 ---
 
-### 2. Secure E-commerce Security Assessment
+### Secure E-commerce Security Assessment
 
-Academic cybersecurity project analysing an e-commerce system from a security assessment perspective.
+An academic cybersecurity project focused on assessing the security risks of an e-commerce system.
 
-**Areas covered:**
+The work examines how security weaknesses can affect customer data, authentication, payment workflows, session integrity, and business continuity.
 
-* Authentication and account security
-* Payment workflow risk
+**Key areas covered:**
+
+* Authentication security
+* Payment workflow risks
 * Session management
-* Data protection
 * Access control
+* Data protection
 * Secure architecture review
 * Penetration testing methodology
 * Business impact reporting
 
-**Security references used:** OWASP Top 10, OWASP Web Security Testing Guide, NIST SP 800-115, PCI DSS, GDPR.
+**Frameworks and references used:**
+
+```text
+OWASP Top 10 · OWASP Web Security Testing Guide · NIST SP 800-115 · PCI DSS · GDPR
+```
 
 ---
 
-### 3. Java OOP Practice Repository
+### Java OOP Practice
 
-A collection of Java practice problems focused on exam-style object-oriented programming.
+A collection of Java programming practice focused on object-oriented programming and exam-style problem solving.
 
 **Topics covered:**
 
@@ -122,70 +142,65 @@ A collection of Java practice problems focused on exam-style object-oriented pro
 * Inheritance
 * ArrayLists
 * `toString()` methods
-* Basic class relationships
 * UML-to-code practice
+* Basic class relationships
 
 ---
 
-### 4. Python Security Automation Practice
+### Python Security Automation Practice
 
-Planned repository for small scripts that support security learning and analyst-style workflows.
+A planned collection of small Python scripts designed to support security learning and analyst-style workflows.
 
-**Planned examples:**
+**Planned scripts:**
 
 * Log file parser
+* Failed login counter
 * Suspicious IP extractor
 * Basic IOC checker
-* Failed login counter
-* Port and service note-taking script
+* Port and service notes generator
 * CSV report generator
 
 ---
 
 ## Learning Roadmap
 
-### Now
+### Currently Building
 
-* Complete SOC Level 1 learning path
-* Strengthen networking fundamentals
-* Practise Wireshark packet analysis
-* Build small Python security scripts
-* Improve Linux command-line confidence
-* Continue Java OOP practice
+* SOC Level 1 knowledge
+* Networking confidence
+* Wireshark packet analysis practice
+* Linux command-line skills
+* Python scripting for security tasks
+* Java object-oriented programming
+* Better technical write-ups for GitHub projects
 
-### Next
+### Next Steps
 
-* Create a home lab for basic detection practice
-* Document TryHackMe rooms with proper write-ups
-* Build a simple SIEM-style log analysis project
+* Build a basic home lab for security practice
+* Document TryHackMe rooms with structured write-ups
+* Create a simple log-analysis project
 * Practise incident report writing
-* Add GitHub project READMEs with screenshots and findings
+* Add screenshots and evidence to project READMEs
+* Build projects that connect security concepts with real-world analyst tasks
 
-### Placement Goal
+---
+
+## Placement Target
 
 I am preparing for roles such as:
 
 * SOC Analyst Intern
 * Cybersecurity Analyst Placement Student
-* Security Operations Placement
+* Security Operations Placement Student
 * Junior Security Analyst
 * IT Security Intern
+* Blue Team Intern
+
+My aim is to show consistent technical progress, practical curiosity, and the ability to explain security findings clearly.
 
 ---
 
-## What I Am Trying To Demonstrate
-
-I want my GitHub to show more than completed tutorials. I am working towards demonstrating:
-
-1. I can learn technical concepts and document them clearly.
-2. I understand the basics of how systems fail and how risks are reported.
-3. I can write simple code to support analysis and automation.
-4. I can explain security findings in a way that is useful to both technical and non-technical readers.
-5. I am consistently building towards placement-level cybersecurity readiness.
-
----
-
-## GitHub Activity
+## GitHub Stats
 
 ![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rkrohan0718\&show_icons=true\&theme=transparent)
 
@@ -196,11 +211,11 @@ I want my GitHub to show more than completed tutorials. I am working towards dem
 ## Contact
 
 * **GitHub:** [@rkrohan0718](https://github.com/rkrohan0718)
+* **LinkedIn:** [Rohan Khatri](https://www.linkedin.com/in/rohan-khatri18)
 * **Email:** [rkrohan0718@gmail.com](mailto:rkrohan0718@gmail.com)
-* **LinkedIn:** Add your LinkedIn profile link here
 
 ---
 
 ```text
-Currently building: cybersecurity fundamentals, practical labs, Java/Python confidence, and a placement-ready portfolio.
+Currently building a placement-ready cybersecurity portfolio through labs, projects, programming practice, and clear technical documentation.
 ```
